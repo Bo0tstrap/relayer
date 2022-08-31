@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "wallet",
+    "key": "teknoman",
     "chain-id": "STRIDE-TESTNET-4",
     "rpc-addr": "http://75.119.157.119:16657",
     "account-prefix": "stride",
