@@ -1,7 +1,7 @@
 {
   "type": "cosmos",
   "value": {
-    "key": "wallet",
+    "key": "teknoman",
     "chain-id": "GAIA",
     "rpc-addr": "http://75.119.157.119:23657",
     "account-prefix": "cosmos",
